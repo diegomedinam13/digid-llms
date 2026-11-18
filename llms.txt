@@ -1,0 +1,88 @@
+# DIGID
+
+> DIGID es una plataforma mexicana de firma electrónica con constancia de conservación NOM-151 y verificación de identidad (KYC) para empresas. Permite firmar contratos con validez legal en México, validar la identidad del firmante contra INE y RENAPO con biometría y prueba de vida, y automatizar documentos desde plantillas. Se usa desde la plataforma web, por API REST, con SDK web y móvil, o desde asistentes de IA mediante su servidor MCP.
+
+DIGID atiende principalmente a financieras (SOFOM, SOFIPO, uniones de crédito, fintech), inmobiliarias, despachos jurídicos, aseguradoras y empresas en general. Tiene más de 150 clientes, procesa más de 5,000 contratos al mes y más de 15,000 firmantes activos mensuales. Ofrece integración con Buró de Crédito y Círculo de Crédito, y un piloto sin costo hasta salir a producción.
+
+Datos clave:
+- Tipos de firma: firma autógrafa digital y e.firma del SAT.
+- Constancia NOM-151-SCFI-2016: da fecha cierta e integridad al documento, con valor probatorio conforme al Código de Comercio (art. 89 y siguientes).
+- KYC: identificación oficial (INE), validación RENAPO, selfie con prueba de vida (liveness) y expediente de evidencias.
+- Integraciones: API REST, webhooks, plantillas dinámicas, SDK web y móvil, servidor MCP para ChatGPT y Claude.
+- Contacto: contacto@digid.com.mx · +52 999 903 9195
+
+## Producto
+
+- [Plataforma de firma electrónica para empresas](https://www.digid.com.mx/plataforma-firma-electronica): firma autógrafa digital o e.firma, verificación del firmante, API y NOM-151.
+- [Firma de contratos digitales](https://www.digid.com.mx/firma-contratos-digitales): envío de contratos a firma desde plantillas o desde tu sistema.
+- [Firma electrónica NOM-151](https://www.digid.com.mx/nom-151): constancia de conservación, fecha cierta y valor probatorio.
+- [KYC y validación de identidad](https://www.digid.com.mx/kyc): INE, RENAPO, biometría y prueba de vida.
+- [DIGID para financieras](https://www.digid.com.mx/financieras): originación de crédito digital, KYC y firma de contratos y pagarés.
+- [DIGID para inmobiliarias](https://www.digid.com.mx/inmobiliarias): promesas de compraventa, arrendamiento y contratos con brokers.
+- [Integración con IA (MCP)](https://www.digid.com.mx/mcp-integraciones): crear, asignar y enviar documentos a firma desde ChatGPT o Claude.
+- [Precios y planes](https://www.digid.com.mx/precios-planes)
+- [Documentación de la API](https://docs.digidmexico.com.mx/)
+
+## Marco legal
+
+- [¿Qué leyes respaldan la firma digital en México?](https://www.digid.com.mx/blog/firma-digital-en-mexico)
+- [¿La firma digital tiene validez legal en México?](https://www.digid.com.mx/blog/validez-legal-de-las-firmas-digitales)
+- [¿Qué valor probatorio tiene un contrato firmado digitalmente ante un juez?](https://www.digid.com.mx/blog/valor-probatorio-contrato-digital-juicio)
+- [Diferencia entre firma electrónica simple, avanzada y e.firma del SAT](https://www.digid.com.mx/blog/iferencia-firma-electronica-simple-avanzada-efirma)
+- [¿Qué dice la Ley de Firma Electrónica Avanzada y a quiénes aplica?](https://www.digid.com.mx/blog/ley-firma-electronica-avanzada-lfea-mexico)
+- [¿Qué es la NOM-151 y por qué es clave para validar documentos digitales?](https://www.digid.com.mx/blog/nom-151-validez-legal)
+- [¿Qué es la fecha cierta digital y cómo se obtiene con NOM-151?](https://www.digid.com.mx/blog/firma-digital-fecha-cierta)
+- [¿Cómo protege la NOM-151 tus contratos contra alteraciones y fraudes?](https://www.digid.com.mx/blog/nom-151-proteccion-contratos-fraude)
+- [¿Qué es el pagaré digital tras la reforma a la LGTOC 2024?](https://www.digid.com.mx/blog/pagare-digital-reforma-lgtoc-2024)
+- [¿Cómo firmar contratos mercantiles digitalmente con validez legal?](https://www.digid.com.mx/blog/contratos-mercantiles-firma-digital-validez-legal-mexico)
+- [¿Cómo se aplica la LFT a la firma digital de contratos laborales?](https://www.digid.com.mx/blog/firma-digital-contratos-laborales-lft-imss)
+
+## Identidad, KYC y cumplimiento
+
+- [¿Cómo funciona la validación de identidad contra RENAPO, INE y SAT?](https://www.digid.com.mx/blog/validacion-identidad-renapo-ine-sat)
+- [¿Qué es la prueba de vida (liveness) y por qué tu onboarding la necesita?](https://www.digid.com.mx/blog/prueba-de-vida-liveness-deepfakes-onboarding)
+- [¿Qué es la identidad sintética y cómo detectarla?](https://www.digid.com.mx/blog/identidad-sintetica-deteccion-onboarding)
+- [¿Qué debe contener el expediente de identificación del cliente?](https://www.digid.com.mx/blog/expediente-identificacion-cliente)
+- [¿Qué obligaciones de PLD tiene una SOFOM?](https://www.digid.com.mx/blog/obligaciones-pld-sofom-enr)
+- [Enfoque Basado en Riesgos (EBR) en PLD](https://www.digid.com.mx/blog/enfoque-basado-riesgos-ebr-pld)
+- [¿Qué es un PEP y cómo debe tratarlo tu financiera?](https://www.digid.com.mx/blog/pep-personas-politicamente-expuestas)
+- [¿Qué exige la Ley Antilavado a las Actividades Vulnerables?](https://www.digid.com.mx/blog/lacp-actividades-vulnerables-identificacion-clientes)
+- [Obligaciones de la Ley de Protección de Datos Personales en KYC digital](https://www.digid.com.mx/blog/ley-proteccion-datos-personales-kyc-digital-mexico)
+- [¿Qué es el CURP biométrico y cómo impacta el onboarding digital?](https://www.digid.com.mx/blog/curp-biometrico-onboarding-digital)
+
+## Financieras y crédito digital
+
+- [¿Cómo funciona el onboarding y la firma digital para una SOFOM?](https://www.digid.com.mx/blog/onboarding-firma-digital-sofom)
+- [¿Cómo puede una SOFOM digitalizar su originación de crédito de principio a fin?](https://www.digid.com.mx/blog/sofom-originacion-credito-digital-pexels-loan-application-digital-process)
+- [¿Cómo elegir una plataforma de firma electrónica con NOM-151 para una financiera?](https://www.digid.com.mx/blog/como-elegir-plataforma-firma-electronica-nom151)
+- [Caso de éxito: una SOFOM pasó a originación digital en un mes](https://www.digid.com.mx/blog/digid.com.mx-blog-caso-exito-sofom-originacion-digital)
+- [¿Cómo reducir el abandono en el onboarding digital sin sacrificar cumplimiento?](https://www.digid.com.mx/blog/reducir-abandono-onboarding-digital)
+- [Onboarding y firma digital para SOFIPO](https://www.digid.com.mx/blog/onboarding-firma-digital-sofipo)
+- [Onboarding y firma digital para fintech (IFC e IFPE)](https://www.digid.com.mx/blog/onboarding-firma-digital-fintech-ifc-ifpe)
+- [Onboarding y firma digital para uniones de crédito](https://www.digid.com.mx/blog/onboarding-firma-digital-union-credito)
+
+## Integración técnica
+
+- [¿Cómo pueden las empresas integrar firma electrónica y KYC mediante API?](https://www.digid.com.mx/blog/integraciones-api-firma-electronica-kyc-digid)
+- [¿Cómo funciona la API de DIGID para crear y enviar documentos a firma?](https://www.digid.com.mx/blog/api-digid-creacion-envio-documentos-firma)
+- [¿Cómo funciona la API de KYC e identidad de DIGID?](https://www.digid.com.mx/blog/api-kyc-verificacion-identidad-digid)
+- [¿Cómo funcionan los webhooks de DIGID?](https://www.digid.com.mx/blog/webhooks-digid-automatizar-flujos-firma)
+- [Plantillas dinámicas para generar documentos desde tus sistemas](https://www.digid.com.mx/blog/plantillas-dinamicas-digid-generar-documentos-api)
+- [¿Cómo integrar el SDK móvil de DIGID en tu app?](https://www.digid.com.mx/blog/sdk-movil-digid-integracion-app)
+- [¿Qué es el MCP de DIGID y cómo permite a agentes de IA firmar documentos?](https://www.digid.com.mx/blog/mcp-digid-agentes-ia-firma-documentos)
+- [¿Cuánto tiempo toma integrar DIGID en un sistema existente?](https://www.digid.com.mx/blog/cuanto-tiempo-integrar-digid-sistema-existente)
+
+## Por sector
+
+- [Firma digital en el sector inmobiliario](https://www.digid.com.mx/blog/firma-digital-sector-inmobiliario-mexico)
+- [Firma digital para despachos jurídicos](https://www.digid.com.mx/blog/firma-digital-despachos-juridicos-mexico)
+- [Onboarding digital en aseguradoras](https://www.digid.com.mx/blog/onboarding-seguros-mexico)
+- [Firma digital en Recursos Humanos](https://www.digid.com.mx/blog/firma-digital-recursos-humanos-contratos-laborales)
+- [Firma digital en el sector automotriz](https://www.digid.com.mx/blog/firma-digital-sector-automotriz-mexico)
+- [Firma digital en logística y transporte](https://www.digid.com.mx/blog/firma-digital-logistica-transporte-mexico)
+- [Firma digital en escuelas y universidades](https://www.digid.com.mx/blog/firma-digital-escuelas-universidades-mexico)
+
+## Opcional
+
+- [Blog de DIGID (todos los artículos)](https://www.digid.com.mx/blog)
+- [Contacto](https://www.digid.com.mx/contacto)
